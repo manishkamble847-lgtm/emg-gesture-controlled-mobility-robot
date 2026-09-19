@@ -50,3 +50,13 @@ Electrodes placed on the hand or forearm capture a bio-signal. The AD8232 module
 ## Note
 
 This is an academic proof-of-concept robotic vehicle, not a medical-grade wheelchair.
+
+## Project Images
+
+### Block Diagram
+
+![Block diagram](block-diagram.png)
+
+### Hardware Prototype
+
+![Hardware prototype](prototype-photo.jpg)
